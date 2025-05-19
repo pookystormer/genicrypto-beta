@@ -1,1 +1,1 @@
-Report **Grenius AI Beta** issues here
+Report **Genius AI Beta** issues here
